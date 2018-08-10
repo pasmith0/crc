@@ -1,0 +1,1 @@
+gcc -DDEBUG_CRC16 -DPRINT_OUTPUT driver.c crc16.c -o driver
