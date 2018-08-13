@@ -12,7 +12,7 @@ class crc16:
 
 
         """
-        For crc16 calculation - see also XPG Bootloader code flash.h/c.
+        For crc16 calculation
         Table for x^16 + x^15 + x^2 + x^0 CRC-16-IBM.
         """
 
@@ -108,7 +108,7 @@ class crc16:
 
     def computeCRC16(self, seed, inputArray):
         """
-        Calculates and returns the crc16. See also XPG Bootloader code flash.h/c.
+        Calculates and returns the crc16.
         """
         crc16 = seed
 

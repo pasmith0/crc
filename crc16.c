@@ -1,17 +1,3 @@
-/**
- *  @file
- *
- *  @copyright Copyright (c) 2017 Nuvectra. All rights reserved.
- *
- *  @license   Confidential & Proprietary
- *
- *  @note Project: 24-channel SCS IPG
- *
- *  @brief CRC table and calculation routine.
- *
- ***************************************************************************/
-
-
 #include "crc16.h"
 
 //#define DEBUG_CRC16
